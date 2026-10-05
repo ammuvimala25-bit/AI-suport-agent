@@ -1,0 +1,21 @@
+[
+    {
+        "ticket_id": "TKT-0001",
+        "category": "Human Escalation",
+        "question": "agent",
+        "status": "Open"
+    },
+    {
+        "ticket_id": "TKT-0002",
+        "category": "Human Escalation",
+        "question": "I need help from a human agent.",
+        "status": "Open"
+    },
+    {
+        "ticket_id": "VIM-20261005141115",
+        "question": "My refund has not been processed. Create a ticket.",
+        "category": "Refund",
+        "status": "Open",
+        "created_at": "2026-10-05 14:11:15"
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "guest": {
+        "customer_id": "guest",
+        "name": "",
+        "email": "",
+        "phone": "",
+        "preferences": [],
+        "important_information": [],
+        "previous_issues": [],
+        "conversation_summary": "",
+        "last_updated": "2026-10-05T20:15:09.076701"
+    },
+    "customer001": {
+        "name": "vimala",
+        "email": "",
+        "phone": "",
+        "preferences": [],
+        "important_information": [],
+        "previous_issues": [
+            "hi",
+            "ticket system"
+        ],
+        "conversation_summary": "Customer provided their name: vimala. Customer asked what their name is. Customer sent a greeting: hi.",
+        "last_updated": "2026-10-05T21:38:02.280150"
+    }
+}
